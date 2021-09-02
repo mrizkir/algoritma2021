@@ -4,7 +4,7 @@ Dalam sebuah program itu ada beberapa bagian
 3. bagian isi program
 
 
-```
+`
 DEKLARASI
 
 VAR A TIPENYA INTEGER
@@ -21,4 +21,4 @@ C = A * B
 CETAK(C)
 
 SELESAI PROGRAM
-```
+`
