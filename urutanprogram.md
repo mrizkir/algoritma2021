@@ -37,3 +37,15 @@ main() {
   cout << C
 }
 ```
+
+## BENTUK DALAM BAHASA PEMROGRAMAN PHP
+```php
+
+$A = 10;
+$B = 20;
+
+$C = $A * $B;
+
+echo $C;
+
+```
